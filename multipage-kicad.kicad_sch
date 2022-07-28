@@ -183,5 +183,8 @@
     (path "/565fed79-47a0-410d-9c77-72bb2984172c"
       (reference "R2") (unit 1) (value "R") (footprint "")
     )
+    (path "/d6210676-7fb5-40cb-8500-7334b28a2edf/355743c9-f9aa-4947-a363-331bbee4d176"
+      (reference "Y?") (unit 1) (value "Resonator") (footprint "")
+    )
   )
 )
