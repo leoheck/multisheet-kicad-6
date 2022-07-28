@@ -97,7 +97,7 @@
   (symbol (lib_id "Connector:XLR3") (at 140.97 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5f2b54e6-fe1a-426c-9428-e1edcef6cf67)
-    (property "Reference" "J?" (id 0) (at 140.97 83.82 0))
+    (property "Reference" "J1" (id 0) (at 140.97 83.82 0))
     (property "Value" "XLR3" (id 1) (at 140.97 86.36 0))
     (property "Footprint" "" (id 2) (at 140.97 93.98 0)
       (effects (font (size 1.27 1.27)) hide)

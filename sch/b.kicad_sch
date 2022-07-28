@@ -62,7 +62,7 @@
   (symbol (lib_id "Device:C") (at 135.89 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 18014c2e-f94e-4d78-b8c5-1cf948186e55)
-    (property "Reference" "C?" (id 0) (at 139.7 96.5199 0)
+    (property "Reference" "C1" (id 0) (at 139.7 96.5199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C" (id 1) (at 139.7 99.0599 0)
