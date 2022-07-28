@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (label "adding content to this page..." (at 137.16 102.87 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8f4f64a9-b315-4d64-b956-4e3db694cdde)
+  )
 )
